@@ -1,2 +1,12 @@
-# weather_app.py
-Weather App is a Python project that shows real-time weather using API data.
+📌 Description
+
+A simple Python project that shows real-time weather information for any city using the OpenWeatherMap API.
+
+🚀 Features
+Live weather updates
+City search
+Temperature & humidity display
+🛠️ Tech Used
+Python
+Requests
+OpenWeatherMap API
